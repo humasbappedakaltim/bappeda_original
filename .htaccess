@@ -1,0 +1,7 @@
+<FilesMatch "\.(json)$">
+  <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+	Header set Referrer-Policy "origin"
+  </IfModule>
+</FilesMatch>
+
