@@ -1,0 +1,73 @@
+
+.sab_banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.city_blog2_wrap, .city_news2_wrap, .city_blog_wrap ,.city_news_wrap  {
+    padding-top: 50px;
+}
+
+.city_event2_wrap {
+    padding-top: 50px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.m-0 {
+    margin-top:0px ;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
+.p-0 {
+    padding: 0px;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.slick-prev, .slick-next{
+    background-color: #0d0d0d!important;
+    border: 1px solid #0d0d0d!important;
+}
+.slick-prev:before, .slick-next:before{
+    color: white!important;
+}
+.widget_list .city_top_social ul li a{
+    border: 2px solid #fff;
+}
+.prevnext_agendabutton{
+    margin-bottom: 1.5em;
+}
+.agendabutton{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background: #02967c!important;
+    border-color: #02967c!important;
+    padding: 0.4em 0.65em;
+    font-size: 1em;
+    line-height: 1.5;
+    border-radius: 0.25em;
+}
+.fc-icon-chevron-left:before{
+    color: #fff!important;
+}
+.fc-icon-chevron-right:before{
+    color: #fff!important;
+}
